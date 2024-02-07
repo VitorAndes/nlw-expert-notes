@@ -22,10 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-tsconfig.node.json
-tsconfig.json
-postcss.config.js
-package.json
-package-lock.json
-vite.config.ts
-src/vite-env.d.ts
